@@ -137,7 +137,7 @@ The dataset contains **8,000+ Netflix Movies and TV Shows** records with informa
 # 🔗 GitHub Repository
 
 ```text
-https://github.com/aakashnath/netflix-content-analysis-power-bi/edit/main/README.md
+https://github.com/aakashnath/netflix-content-analysis-power-bi
 ```
 
 ---
