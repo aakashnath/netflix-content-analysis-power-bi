@@ -124,15 +124,21 @@ The dataset contains **8,000+ Netflix Movies and TV Shows** records with informa
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Developed By
 
 **Aakash Nath**
-
-🎓 B.Tech – Information Technology
 
 📧 Email: nathaakash855@gmail.com
 
 💼 LinkedIn: https://linkedin.com/in/aakashnath2003
+
+---
+
+# 🔗 GitHub Repository
+
+```text
+https://github.com/aakashnath/netflix-content-analysis-power-bi/edit/main/README.md
+```
 
 ---
 
