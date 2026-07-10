@@ -10,7 +10,7 @@ The **Netflix Content Analysis Dashboard** is an interactive Business Intelligen
 
 It enables users to analyze Netflix's global content library by exploring content distribution across countries, genres, ratings, release years, and content types, supporting data-driven decision-making through an intuitive dashboard.
 
----
+--
 
 ## 🖼️ Dashboard Preview
 
