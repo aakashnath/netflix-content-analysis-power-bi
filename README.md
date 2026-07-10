@@ -130,8 +130,6 @@ The dataset contains **8,000+ Netflix Movies and TV Shows** records with informa
 
 🎓 B.Tech – Information Technology
 
-🏫 Government College of Engineering & Leather Technology
-
 📧 Email: nathaakash855@gmail.com
 
 💼 LinkedIn: https://linkedin.com/in/aakashnath2003
@@ -141,7 +139,3 @@ The dataset contains **8,000+ Netflix Movies and TV Shows** records with informa
 ## ⭐ Support
 
 If you found this project useful, please consider *starring ⭐ this repository*. Your support is appreciated!
-
-## ⭐ Support
-
-If you found this project useful, please consider **starring ⭐ this repository**. Your support is appreciated!
