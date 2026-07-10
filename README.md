@@ -12,12 +12,11 @@ It enables users to analyze Netflix's global content library by exploring conten
 
 ---
 
-# 📷 Dashboard Preview
+## 🖼️ Dashboard Preview
 
-![Netflix Content Analysis Dashboard] (netflix-dashboard.png)
+![Netflix Content Analysis Dashboard](./netflix-dashboard.png)
 
 *Figure 1: Netflix Content Analysis Dashboard*
-
 ---
 
 # 🎯 Project Objectives
